@@ -1,40 +1,16 @@
-/* dataV1.0 Rev 0 */
-{
-  "manga_id": "a-dragonslayers-peerless-regression",
-  "title": "A Dragonslayer’s Peerless Regression",
-  "alternative_title": "The Peerless Regression of the Dragon Slayer / 용살자의 역대급 회귀",
-  "status": "Ongoing",
-  "author": "Woo Gak",
-  "artist": "Gwon Yeong-nam",
-  "genres": [
-    "Action",
-    "Adventure",
-    "Fantasy",
-    "Regression"
-  ],
-  "type": "Manhwa",
-  "release_year": 2024,
-  "rating": "4.8",
-  "synopsis": "Setelah pertempuran epik melawan naga yang menghancurkan benua, Siegfried, sang pembantai naga terkuat, mendapati dirinya terbangun kembali ke masa lalunya saat ia masih menjadi seorang kadet lemah. Dengan ingatan masa depan dan teknik bertarung yang telah sempurna, ia bertekad untuk mencegah kehancuran dunia dan mengubah takdir tragis rekan-rekannya.",
-  "cover_url": "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/covers/a-dragonslayers-peerless-regression.jpg",
-  "chapters": [
-    {
-      "chapter_number": "01",
-      "chapter_title": "Prologue: Hari Kehancuran",
-      "images": [
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-01/001.jpg",
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-01/002.jpg",
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-01/003.jpg"
-      ]
-    },
-    {
-      "chapter_number": "02",
-      "chapter_title": "Kebangkitan Sang Pembantai Naga",
-      "images": [
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-02/001.jpg",
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-02/002.jpg",
-        "https://raw.githubusercontent.com/ChiraqGang/storage/main/assets/manga/a-dragonslayers-peerless-regression/ch-02/003.jpg"
-      ]
-    }
-  ]
-}
+[
+  {
+    "id": "9c580c679b9cfa95ff9eaab8123e1bb5d384eb9d",
+    "title": "Action - A Cadet Becomes a Prophet",
+    "category": "Action",
+    "cover": "https://via.placeholder.com/300x450/1a1a1a/39ff14?text=Action",
+    "cbzUrl": "https://raw.githubusercontent.com/raka1100-pp/chiraqdata/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Action - Genius Prismatic Mage",
+    "category": "Action",
+    "cover": "https://via.placeholder.com/300x450/1a1a1a/39ff14?text=Action",
+    "cbzUrl": "https://raw.githubusercontent.com/raka1100-pp/chiraqdata/main/Action/Genius%20Prismatic%20Mage.cbz"
+  }
+]
