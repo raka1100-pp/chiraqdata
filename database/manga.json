@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "id": "9c580c679b9cfa95ff9eaab8123e1bb5d384eb9d",
+    "title": "Action - A Cadet Becomes a Prophet",
+    "category": "Action",
+    "cover": "https://via.placeholder.com/300x450/1a1a1a/39ff14?text=Action",
+    "cbzUrl": "https://raw.githubusercontent.com/raka1100-pp/chiraqdata/main/Action/A%20Cadet%20Becomes%20a%20Prophet.cbz"
+  },
+  {
+    "id": "076acfc08c642a52a31f451c97f98aa240b8006b",
+    "title": "Action - Genius Prismatic Mage",
+    "category": "Action",
+    "cover": "https://via.placeholder.com/300x450/1a1a1a/39ff14?text=Action",
+    "cbzUrl": "https://raw.githubusercontent.com/raka1100-pp/chiraqdata/main/Action/Genius%20Prismatic%20Mage.cbz"
+  }
+]
